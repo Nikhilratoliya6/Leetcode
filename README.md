@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -24,10 +25,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
