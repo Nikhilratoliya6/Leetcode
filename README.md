@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
@@ -28,5 +29,10 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
