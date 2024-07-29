@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
+| [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
