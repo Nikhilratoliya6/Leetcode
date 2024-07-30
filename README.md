@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
