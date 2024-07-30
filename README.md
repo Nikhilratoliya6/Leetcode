@@ -8,6 +8,7 @@
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -66,5 +67,14 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
