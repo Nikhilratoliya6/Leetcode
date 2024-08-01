@@ -98,4 +98,12 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
