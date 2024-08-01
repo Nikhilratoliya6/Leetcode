@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -102,8 +103,14 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
