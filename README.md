@@ -15,6 +15,7 @@
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
 |  |
