@@ -16,6 +16,7 @@
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
@@ -84,6 +85,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
 | ------- |
