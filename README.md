@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
@@ -61,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
