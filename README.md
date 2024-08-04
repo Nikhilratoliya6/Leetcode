@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
+| [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
