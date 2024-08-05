@@ -24,6 +24,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -35,6 +36,7 @@
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
@@ -80,6 +82,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
