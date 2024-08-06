@@ -24,6 +24,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -57,6 +58,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
