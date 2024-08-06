@@ -36,6 +36,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -137,6 +138,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -172,4 +174,8 @@
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
