@@ -14,6 +14,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -136,6 +137,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
