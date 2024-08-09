@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
+| [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -87,6 +88,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -149,6 +151,7 @@
 | [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
+| [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
 |  |
