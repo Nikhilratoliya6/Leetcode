@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1319-unique-number-of-occurrences](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -109,6 +111,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -176,6 +179,7 @@
 | ------- |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
 |  |
@@ -191,4 +195,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
