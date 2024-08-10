@@ -83,6 +83,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Bit Manipulation
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
