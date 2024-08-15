@@ -14,6 +14,7 @@
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0494-target-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@
 | [0091-decode-ways](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0494-target-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -189,6 +191,7 @@
 | [0040-combination-sum-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
