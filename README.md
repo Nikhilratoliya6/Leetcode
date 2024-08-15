@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -190,6 +191,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0494-target-sum) |
 ## Matrix
