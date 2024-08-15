@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -73,6 +74,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0890-lemonade-change](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0890-lemonade-change) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
