@@ -36,6 +36,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2662-check-knight-tour-configuration](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2727-number-of-senior-citizens](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
@@ -126,6 +127,7 @@
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2662-check-knight-tour-configuration](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0735-asteroid-collision](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2662-check-knight-tour-configuration](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2662-check-knight-tour-configuration](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
@@ -219,6 +223,7 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [2662-check-knight-tour-configuration](https://github.com/Nikhilratoliya6/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Union Find
 |  |
 | ------- |
