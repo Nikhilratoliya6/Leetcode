@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0494-target-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0724-find-pivot-index) |
@@ -74,6 +75,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Nikhilratoliya6/Leetcode/tree/master/0890-lemonade-change) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Nikhilratoliya6/Leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhilratoliya6/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
